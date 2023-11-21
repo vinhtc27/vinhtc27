@@ -7,13 +7,13 @@
 
 - 👨‍💻 All of my projects are available at [github.com/vinhtc27](github.com/vinhtc27)
 
-- 📝 I regularly write articles on [vinhtc27.tech](vinhtc27.tech)
-
 - 💬 Ask me about anything with **go, rust, python, blockchain, system and architect**
 
 - 📫 How to reach me **vinhtc27@gmail.com**
 
 - 📄 Know about my experiences [linkedin.com/in/vinhtc27](linkedin.com/in/vinhtc27)
+
+- 📝 I'm practicing writing articles on [vinhtc27.tech](vinhtc27.tech)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
