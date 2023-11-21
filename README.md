@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm vinhtc27</h1>
 <h3 align="center">A passionate Backend Developer from Vietnam</h3>
 
-- 👨‍💻 All of my projects are available at [github.com/vinhtc27](github.com/vinhtc27)
-
 - 💬 Ask me about anything with **Go, Rust, Python, Backend, Blockchain, System Design and Architect**
 
 - 📫 How to reach me **vinhtc27@gmail.com**
@@ -10,6 +8,8 @@
 - 📄 Know about my experiences [linkedin.com/in/vinhtc27](linkedin.com/in/vinhtc27)
 
 - 📝 I'm practicing writing articles on [vinhtc27.tech](vinhtc27.tech)
+
+- 👨‍💻 All of my public projects are available at this github profile
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
