@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/vinhtc27](github.com/vinhtc27)
 
-- 💬 Ask me about anything with **go, rust, python, blockchain, system and architect**
+- 💬 Ask me about anything with **Go, Rust, Python, Backend, Blockchain, System Design and Architect**
 
 - 📫 How to reach me **vinhtc27@gmail.com**
 
