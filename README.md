@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **vinhtc27@gmail.com**
 
-- 📄 Know about my experiences [linkedin.com/in/vinhtc27](linkedin.com/in/vinhtc27)
+- 📄 Know about my experiences [linkedin.com/in/vinhtc27](https://linkedin.com/in/vinhtc27)
 
 - 📝 I'm practicing writing articles on [vinhtc27.tech](https://vinhtc27.tech)
 
