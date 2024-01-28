@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm vinhtc27</h1>
-<h3 align="center">A passionate Backend Developer from Vietnam</h3>
+<h3 align="center">A passionate Software Engineer from Vietnam</h3>
 
 - 💬 Ask me about anything with **Go, Rust, Python, Backend, Blockchain, System Design and Architect**
 
