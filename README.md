@@ -7,8 +7,6 @@
 
 - 📄 Know about my experiences [linkedin.com/in/vinhtc27](https://linkedin.com/in/vinhtc27)
 
-- 📝 I'm practicing writing articles on [vinhtc27.tech](https://vinhtc27.tech)
-
 - 👨‍💻 All of my public projects are available at this github profile
 
 <h3 align="left">Connect with me:</h3>
