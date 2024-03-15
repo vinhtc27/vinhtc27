@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm vinhtc27</h1>
 <h3 align="center">A passionate Software Engineer from Vietnam</h3>
 
-- 💬 Ask me about anything with **Go, Rust, Python, Backend, Blockchain, System Design and Architect**
+- 💬 Ask me anything about **Go, Rust, Backend, System Programming and Sofware Architecture**
 
 - 📫 How to reach me **vinhtc27@gmail.com**
 
