@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm vinhtc27 ![](https://komarev.com/ghpvc/?username=vinhtc27&color=orange&label=&abbreviated=true&style=plastic)</h1>
+<h1 align="center">Hi 👋, I'm vinhtc27 </h1>
 <h3 align="center">A passionate Software Engineer from Vietnam</h3>
 
 - 📫 How to reach me **vinhtc27@gmail.com**
 
 - 📄 Know about my experiences [linkedin.com/in/vinhtc27](https://linkedin.com/in/vinhtc27)
 
-- 👨‍💻 All of my public projects are available at this github profile 
-
+- 👨‍💻 All of my public projects are available at this github profile  ![](https://komarev.com/ghpvc/?username=vinhtc27&color=orange&label=&abbreviated=true&style=plastic)
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/vinhtc27" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" alt="vinhtc27" height="30" width="40" /></a>
