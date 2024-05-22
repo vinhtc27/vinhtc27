@@ -5,7 +5,7 @@
 
 - 📄 Know about my experiences [linkedin.com/in/vinhtc27](https://linkedin.com/in/vinhtc27)
 
-- 👨‍💻 All of my public projects are available at this github ![](https://komarev.com/ghpvc/?username=vinhtc27)
+- 👨‍💻 All of my public projects are available at this github  ![](https://komarev.com/ghpvc/?username=vinhtc27&color=orange)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
