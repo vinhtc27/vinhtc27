@@ -5,7 +5,7 @@
 
 - 📄 Know about my experiences [linkedin.com/in/vinhtc27](https://linkedin.com/in/vinhtc27)
 
-- 👨‍💻 All of my public projects are available at this github profile
+- 👨‍💻 All of my public projects are available at this github ![](https://komarev.com/ghpvc/?username=vinhtc27)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -65,5 +65,3 @@
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/aws-icon-512x512-hniukvcn.png" alt="gcp" width="40" height="40"/> </a>
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
 <a href="https://cloud.digitalocean.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/DigitalOcean_logo.svg/1200px-DigitalOcean_logo.svg.png" alt="git" width="40" height="40"/> </a>
-
-- ![](https://komarev.com/ghpvc/?username=vinhtc27)
