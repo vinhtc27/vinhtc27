@@ -7,7 +7,7 @@
 
  
 <h3>Connect with me:</h3> 
-<span>
+<span align="center">
   <a href="https://linkedin.com/in/vinhtc27" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinhtc27" height="30" width="40" />
   </a>
