@@ -7,7 +7,7 @@
 
  
 <h3>Connect with me:</h3> 
-<div style="display: flex; align-items: center; gap: 10px;">
+<span>
   <a href="https://linkedin.com/in/vinhtc27" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinhtc27" height="30" width="40" />
   </a>
@@ -17,4 +17,4 @@
   <a href="https://stackoverflow.com/users/19669488" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19669488" height="30" width="40" />
   </a>
-</div>
+</span>
