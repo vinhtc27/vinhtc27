@@ -1,14 +1,16 @@
-## Hey I'm Vinh 🤓
+## Hey, I'm Vinh 🤓
 
-```json
-{
-  "job": ["Software Engineer", "Researcher"],
-  "birthday": "2002-02-27",
-  "country": "Vietnam",
-  "city": "Hanoi",
-  "stack": ["Rust", "Go", "Python", "..."],
-  "interest": ["Tech", "Gym", "Climbing", "..."]
-}
+```rust
+let vinh = Vinh::builder()
+    .researcher()
+    .software_engineer()
+    .from("Hanoi, Vietnam")
+    .uptime(Duration::from_years(23))
+    .love(&["💻 Tech", "🏋️ Gym", "🧗 Climbing", "..."])
+    .stack(&["🦀 Rust", "📦 Blockchain", "🔐 Cryptography", "..."])
+    .contact("linkedin.com/in/vinhtc27")
+    .build();
+
+panic!(vinh);
+
 ```
-
-For more details on me: [Linkedin](https://www.linkedin.com/in/vinhtc27)
