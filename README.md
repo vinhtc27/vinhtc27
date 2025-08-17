@@ -11,4 +11,4 @@
 }
 ```
 
-For more details on me: [vinhtc27]([https://www.cyprien.io](https://www.linkedin.com/in/vinhtc27)
+For more details on me: [vinhtc27](https://www.linkedin.com/in/vinhtc27)
