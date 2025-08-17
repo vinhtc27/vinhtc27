@@ -1,4 +1,4 @@
-# Hello world, I'm Vinh 👋
+# Hi there, I'm Vinh 🧑‍💻
 
 ```rust
 fn main() {
