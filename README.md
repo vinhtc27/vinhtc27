@@ -11,6 +11,5 @@ let vinh = Vinh::builder()
     .contact("linkedin.com/in/vinhtc27")
     .build();
 
-panic!(vinh);
-
+debug!(vinh);
 ```
