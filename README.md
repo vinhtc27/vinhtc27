@@ -6,8 +6,8 @@ let vinh = Vinh::builder()
     .software_engineer()
     .from("Hanoi, Vietnam")
     .age(Duration::from_years(23))
-    .love(["💻 Tech", "🏋️ Gym", "🧗 Climbing", ...])
-    .stack(["🦀 Rust", "📦 Blockchain", "🔐 Cryptography", ...])
+    .love(["💻 Tech", "🏋️ Gym", "🧗 Climbing"])
+    .stack(["🦀 Rust", "📦 Blockchain", "🔐 Cryptography"])
     .contact("linkedin.com/in/vinhtc27")
     .build();
 
