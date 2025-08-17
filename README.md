@@ -1,4 +1,14 @@
-<h1 align="center">Hi 👋, I'm vinhtc27 </h1>
-<h3 align="center">🌟 Passionate Software Engineer from Vietnam</h3>
+## Hey I'm Vinh 👋
 
+```json
+{
+  "job": "Software engineer",
+  "birthday": "2002-02-27",
+  "country": "Vietnam",
+  "city": "Hanoi",
+  "stack": ["Rust", "Go", "Python", "..."],
+  "interest": ["Tech", "Gym", "Climbing", "..."]
+}
+```
 
+For more details on me: [vinhtc27]([https://www.cyprien.io](https://www.linkedin.com/in/vinhtc27)
