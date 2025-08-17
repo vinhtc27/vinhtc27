@@ -2,7 +2,7 @@
 
 ```json
 {
-  "job": "Software engineer",
+  "job": ["Software Engineer", "Researcher"],
   "birthday": "2002-02-27",
   "country": "Vietnam",
   "city": "Hanoi",
