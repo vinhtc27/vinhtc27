@@ -1,4 +1,4 @@
-## Hey I'm Vinh 👋
+## Hey I'm Vinh 🤓
 
 ```json
 {
