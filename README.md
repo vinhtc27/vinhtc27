@@ -6,7 +6,7 @@ fn main() {
         .researcher()
         .software_engineer()
         .from("Hanoi, Vietnam")
-        .age(Duration::from_years(23))
+        .age(Duration::from_years(24))
         .love(["Tech 💻", "Gym 🏋️", "Climbing 🧗"])
         .stack(["Rust 🦀", "Blockchain 📦", "Cryptography 🔐"])
         .dream(todo!("See, feel and explore everything 🔥"))
