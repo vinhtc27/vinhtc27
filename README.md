@@ -8,7 +8,7 @@ fn main() {
         .from("Hanoi, Vietnam")
         .age(Duration::from_years(24))
         .love(["Tech 💻", "Gym 🏋️", "Climbing 🧗"])
-        .stack(["Rust 🦀", "Blockchain 📦", "Cryptography 🔐"])
+        .stack(["Rust 🦀", "Blockchain 📦", "Machine Learning 🤖"])
         .dream(todo!("See, feel and explore everything 🔥"))
         .contact("linkedin.com/in/vinhtc27")
         .build();
